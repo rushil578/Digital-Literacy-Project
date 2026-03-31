@@ -49,7 +49,7 @@ This project demonstrates my understanding of digital literacy concepts such as 
 
 The project improved my digital knowledge and helped me understand how to use technology in a safe and professional way.
 
-## Google forms link 
+## Google form link 
 ```
 https://docs.google.com/forms/d/e/1FAIpQLScPUdbnJWw8ctiEg8XJLL4HgyjaG4T27INQMG_dRvRkME4rDQ/viewform
 ```
